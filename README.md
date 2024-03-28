@@ -1,2 +1,4 @@
 # CPT_S-434-Neural-Network-Design-Application
 This repository holds project materials for 'Neural Network Design &amp; Application,' a company-sponsored collaboration with UtopiaTech Pvt. Ltd. in India. Excludes code due to proprietary information.
+
+This repository consists of a project proposal, progress report, and final report developed during the course 'Neural Network Design & Application.' This project is sponsored by a company. I will be collaborating with UtopiaTech Pvt. Ltd. in India to address a specific problem statement, which will serve as a component of their final product. Due to the proprietary nature of the information involved, the repository does not include the code.
